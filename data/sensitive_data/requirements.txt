@@ -1,6 +1,9 @@
-litellm==1.39.5
-vyper==0.3.7
-gradio==3.33.1
+#litellm==1.39.5
+litellm==1.44.8
+#vyper==0.3.7
+vyper==0.4.0
+#gradio==3.33.1
+gradio==4.31.3
 # pytest 
 # wrapt==1.13.2
 # requests==2.26.0
