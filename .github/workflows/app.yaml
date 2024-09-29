@@ -31,10 +31,12 @@ jobs:
       IMAGE_TAG: latest
       WIZ_CLIENT_ID: ${{ secrets.WIZ_CLIENT_ID }}
       WIZ_CLIENT_SECRET: ${{ secrets.WIZ_CLIENT_SECRET }}
-      WIZ_VULN_POLICY: "Default vulnerabilities policy"
+      #WIZ_VULN_POLICY: "Default vulnerabilities policy"
+      WIZ_VULN_POLICY: "gyao vulnerabilities policy"
       WIZ_SENSITIVE_DATA_POLICY: "Default sensitive data policy"
       WIZ_SECRETS_POLICY: "Default secrets policy"
-      WIZ_IAC_POLICY: "Default IaC policy"
+      #WIZ_IAC_POLICY: "Default IaC policy"
+      WIZ_IAC_POLICY: "gyao IaC policy"
       NAME: app
       DIRECTORY: app
 
