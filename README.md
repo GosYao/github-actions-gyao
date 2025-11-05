@@ -132,4 +132,4 @@ Run each command individually in order. Ensure the Helm chart and app service ha
 
 ## Contact :mage_man:
 
-Derek Christensen - derek.christensen@wiz.io
+Gos Yao - Gos.Yao@gmail.com
