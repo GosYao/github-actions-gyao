@@ -2,7 +2,7 @@
 
 This demo environment showcases the CI/CD features of Wiz Code using a real world GitOps workflow. The repository includes Terraform scripts to deploy an AWS ECR registry and an EKS cluster with the Wiz Kubernetes connector, sensor, admission controller, and audit log collector. GitHub Actions workflows manage the build, publishing, and deployment of a Node.js containerized app, along with WizCLI jobs for directory, IaC, and image scanning. The repo itself can also be leveraged and customized to test the VCS connector, PR scanning, image trust, admission control, registry scanning, and the VS Code WizCLI extension.
 
-Please reach out if you have any questions or need help troubleshooting! - Derek Christensen
+Please reach out if you have any questions or need help troubleshooting!
 
 <img src="https://github.com/wiz-sec/wiz-code-gha-demo/raw/main/images/gha.png">
 
